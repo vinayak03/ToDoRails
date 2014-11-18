@@ -1,28 +1,11 @@
-== README
+GetItDone is to-do list manager written in ruby on rails. It is having following functionality.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+• Add List
 
-Things you may want to cover:
+• Add Task into list
 
-* Ruby version
+• Track the progress
 
-* System dependencies
+• Get the email notification
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+• Multiple User support
