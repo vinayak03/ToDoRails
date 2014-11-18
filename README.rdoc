@@ -9,3 +9,5 @@ GetItDone is to-do list manager written in ruby on rails. It is having following
 • Get the email notification
 
 • Multiple User support
+
+Complete.
